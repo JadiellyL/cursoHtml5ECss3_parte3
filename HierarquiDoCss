@@ -1,0 +1,13 @@
+Força dos identificadores no css (Hierarquia do css)
+
+Força por identificador:
+
+p = 1
+
+form p = 2
+
+class = 10
+
+id = 100
+
+inline = 1000 (nada substitui o inline)
